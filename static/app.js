@@ -87,7 +87,7 @@ serachButton.addEventListener('click', async function(){
             return;
         }
         
-        const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=2c3d07680039ad9f6aadbe3d203373e8`)
+        const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid={API_KEY}`)
         const data = await response.json();
         //都市名を日本語へ変換
         const locationJapanese = cityNameToJapanese(location);
