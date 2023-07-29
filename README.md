@@ -9,3 +9,4 @@ JavaScriptの非同期処理の基礎をアウトプットするために作成�
 - JavaScriptでのエラーハンドリング
 - まとまったコードを関数化してコードを簡潔にすること
 
+![スクリーンショット 2023-07-29 22 27 12](https://github.com/tnkkzsr/js-weather-app/assets/107390719/2530043b-261b-461f-8402-6fbbd22fd598)
