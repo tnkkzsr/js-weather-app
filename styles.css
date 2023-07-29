@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     background-color: #f4f4f4;
 }
 
@@ -12,29 +12,27 @@ h1 {
     color: #fff;
 }
 
-
 #search-area {
-    margin:20px;
+    margin: 20px;
     text-align: center;
-
 }
 
 #search-area input {
     padding: 10px;
     width: 300px;
-
 }
 
-#search-area button{
+#search-area button {
     padding: 10px 20px;
     margin-left: 10px;
 }
 
-#weather-info, #forcast-info {
+#weather-info{
     margin: 20px;
     padding: 20px;
     border: 1px solid #ddd;
-    background-color: #fff;
     border-radius: 5px;
+    background-color: #fff;
     min-height: 200px;
+    text-align: center;
 }
